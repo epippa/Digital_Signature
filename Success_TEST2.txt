@@ -1,0 +1,5 @@
+if e=3 and phi=352
+
+then 
+
+d= 235

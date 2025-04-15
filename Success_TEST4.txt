@@ -1,0 +1,15 @@
+if 
+e= 3
+d= 235
+n= 391
+
+and
+
+plaintext = security
+
+then
+
+cyphertext = [276, 16, 228, 77, 45, 265, 24, 331]
+
+and.... VICE VERSA!!!
+
