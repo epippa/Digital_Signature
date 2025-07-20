@@ -95,11 +95,10 @@ project-root/
 > 1. Apri il file `.md`
 > 2. Premi `Ctrl+Shift+V` (Windows) o `Cmd+Shift+V` (Mac) per l'anteprima Markdown
 > 3. Usa l'estensione **Markdown All in One** per funzionalità avanzate
-```
 
 ---
 
-## Autore
+## Struttura File
 
 **Emanuele Pippa**  
 Studente di Informatica presso la Libera Università di Bolzano
