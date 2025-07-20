@@ -96,3 +96,12 @@ project-root/
 > 2. Premi `Ctrl+Shift+V` (Windows) o `Cmd+Shift+V` (Mac) per l'anteprima Markdown
 > 3. Usa l'estensione **Markdown All in One** per funzionalità avanzate
 ```
+
+---
+
+## Autore
+
+**Emanuele Pippa**  
+Studente di Informatica presso la Libera Università di Bolzano
+Progetto realizzato per approfondire la crittografia e le firme digitali (RSA, SHA-256)
+GitHub: [epippa](https://github.com/epippa)
