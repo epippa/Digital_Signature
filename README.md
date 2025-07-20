@@ -95,6 +95,7 @@ project-root/
 ## Struttura File
 
 **Emanuele Pippa**  
-Studente di Informatica presso la Libera Università di Bolzano
-Progetto realizzato per approfondire la crittografia e le firme digitali (RSA, SHA-256)
+Studente di Informatica presso la Libera Università di Bolzano.
+Progetto realizzato per approfondire la crittografia e le firme digitali (RSA, SHA-256).
+
 GitHub: [epippa](https://github.com/epippa)
