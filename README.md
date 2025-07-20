@@ -90,12 +90,6 @@ project-root/
 │   └── DigitalSignature.java
 └── README.md
 ```
-
-> **Nota**: Per visualizzare correttamente la formattazione in VS Code:
-> 1. Apri il file `.md`
-> 2. Premi `Ctrl+Shift+V` (Windows) o `Cmd+Shift+V` (Mac) per l'anteprima Markdown
-> 3. Usa l'estensione **Markdown All in One** per funzionalità avanzate
-
 ---
 
 ## Struttura File
